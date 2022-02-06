@@ -1,0 +1,20 @@
+{
+  "files": {
+    "comandos/utilidad/ping.js": [
+      {
+        "id": "c587221e-65f9-477c-b06c-1b5f9639c5a7",
+        "line": 37,
+        "version": 398,
+        "index": 1484
+      }
+    ],
+    "index.js": [
+      {
+        "id": "e6e19ee7-1727-489d-afb0-c37be42dce22",
+        "line": 218,
+        "version": 222,
+        "index": 6755
+      }
+    ]
+  }
+}
